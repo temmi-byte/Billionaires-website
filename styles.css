@@ -5,6 +5,12 @@ html {
   box-sizing: border-box;
 }
 
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+
  /* Reset */
 * {
   margin: 0;
